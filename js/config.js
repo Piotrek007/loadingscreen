@@ -72,10 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"Obraz 1.png",
-	"Obraz 2.png",
-	"Obraz 3.png",
-        "Obraz 4.png"
+	"Obraz 1.jpg",
+	"Obraz 2.jpg",
+	"Obraz 3.jpg",
+        "Obraz 4.jpg"
 ];
 
 // (Image-background only)
@@ -134,7 +134,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Nie łam zasad",
 	"Słuchaj się administracji",
-	"Baw się dobrze !",
+	"Baw się dobrze!",
 ];
 
 // Random message order?
