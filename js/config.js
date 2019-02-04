@@ -115,7 +115,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 
-      {youtube: "", name: "https://www.youtube.com/watch?v=O45OixJTDSA&feature=youtu.be"},
+      {ogg: "Muzyka1.ogg", name: "Twoja stara"},
 ];
 
 // Random music order?
